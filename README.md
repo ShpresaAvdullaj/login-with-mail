@@ -1,1 +1,1 @@
-# login-with-mail
+# login-with-mail (Django)
